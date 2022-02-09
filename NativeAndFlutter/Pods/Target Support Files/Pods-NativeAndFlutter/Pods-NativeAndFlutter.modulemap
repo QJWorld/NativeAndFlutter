@@ -1,0 +1,6 @@
+framework module Pods_NativeAndFlutter {
+  umbrella header "Pods-NativeAndFlutter-umbrella.h"
+
+  export *
+  module * { export * }
+}
